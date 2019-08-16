@@ -99,7 +99,7 @@ header nav ul li a,
 	-moz-transition:all .2s linear;
 	-o-transition:all .2s linear;
 }
-.blind{font-size: 0; position: absolute; left: -9999px; text-indent: -9999px;}
+.skip{font-size: 0; position: absolute; left: -9999px; text-indent: -9999px;}
 
 
 /*  Header  */
